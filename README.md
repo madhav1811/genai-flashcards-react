@@ -290,8 +290,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**[⭐ Star this repository](https://github.com/your-username/genai-flashcards-react)** if it helped you!
+**[⭐ Star this repository](https://github.com/madhav1811/genai-flashcards-react)** if it helped you!
 
-Made with ❤️ by [Your Name](https://github.com/your-username)
+Made with ❤️ by [Madhav Kartheek](https://github.com/madhav1811)
 
 </div>
