@@ -5,11 +5,11 @@
 ![React](https://img.shields.io/badge/React-18.2.0-blue)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3.2-blue)
 ![Lucide Icons](https://img.shields.io/badge/Lucide-React-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 **Transform your lecture notes and PDFs into interactive flashcards and quizzes using AI-powered content analysis**
 
-[🚀 Live Demo](https://your-username.github.io/genai-flashcards-react) • [📖 Documentation](#documentation) • [🤝 Contributing](#contributing)
+[🚀 Live Demo](https://madhav1811.github.io/genai-flashcards-react) • [📖 Documentation](#documentation) • [🤝 Contributing](#contributing)
 
 </div>
 
@@ -36,23 +36,7 @@
 - **🚀 GitHub Pages Ready** - Easy deployment
 - **♿ Accessibility** - WCAG compliant design
 
-## 🖥️ Screenshots
 
-<div align="center">
-  
-### Upload Interface
-![Upload Interface](./screenshots/upload-interface.png)
-
-### Interactive Flashcards
-![Flashcards](./screenshots/flashcards.png)
-
-### Quiz System
-![Quiz](./screenshots/quiz-system.png)
-
-### Results Dashboard
-![Results](./screenshots/results.png)
-
-</div>
 
 ## 🚀 Quick Start
 
@@ -252,13 +236,11 @@ We welcome contributions! Here's how to get started:
 
 ## 🐛 Issues & Support
 
-- **Bug Reports**: [Create an issue](https://github.com/your-username/genai-flashcards-react/issues)
-- **Feature Requests**: [Start a discussion](https://github.com/your-username/genai-flashcards-react/discussions)
-- **Questions**: [Check our FAQ](https://github.com/your-username/genai-flashcards-react/wiki/FAQ)
+- **Bug Reports**: [Create an issue](https://github.com/madhav1811/genai-flashcards-react/issues)
+- **Feature Requests**: [Start a discussion](https://github.com/madhav1811/genai-flashcards-react/discussions)
+- **Questions**: [Check our FAQ](https://github.com/madhav1811/genai-flashcards-react/wiki/FAQ)
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -279,14 +261,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] **Mobile App** - React Native version
 - [ ] **AI Integration** - OpenAI/Anthropic API support
 
-## 📊 Stats
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/genai-flashcards-react)
-![GitHub forks](https://img.shields.io/github/forks/your-username/genai-flashcards-react)
-![GitHub issues](https://img.shields.io/github/issues/your-username/genai-flashcards-react)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/your-username/genai-flashcards-react)
-
----
 
 <div align="center">
 
