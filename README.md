@@ -49,7 +49,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/genai-flashcards-react.git
+git clone https://github.com/madhav1811/genai-flashcards-react.git
 
 # Navigate to project directory
 cd genai-flashcards-react
