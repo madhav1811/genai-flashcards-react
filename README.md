@@ -2,9 +2,7 @@
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-18.2.0-blue)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3.2-blue)
-![Lucide Icons](https://img.shields.io/badge/Lucide-React-green)
+
 
 
 **Transform your lecture notes and PDFs into interactive flashcards and quizzes using AI-powered content analysis**
