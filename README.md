@@ -9,7 +9,7 @@
 
 **Transform your lecture notes and PDFs into interactive flashcards and quizzes using AI-powered content analysis**
 
-[🚀 Live Demo](https://madhav1811.github.io/genai-flashcards-react) • [📖 Documentation](#documentation) • [🤝 Contributing](#contributing)
+
 
 </div>
 
